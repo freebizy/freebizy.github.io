@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opening legal luminary
-date: 2023-02-09 11:00 +0800
+date: 2023-02-08 11:00 +0800
 last_modified_at: 2023-02-09 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
